@@ -19,6 +19,7 @@ I am 21 years old Enthusiastic, Learning MERN Stack, Data Structure and Algorith
 ### About Me
 
 Currently, I'm learning MERN Stack Development at [Masai School](https://www.masaischool.com/).
+Aspiring to Full Stack Developer at Masai School. I am seeking to learn new technologies and think about efficient ways of doing work.
 
 ### 🌱 What do I do?
 
