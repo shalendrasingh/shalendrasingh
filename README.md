@@ -2,11 +2,12 @@
 
 I'm Shalendra Singh from Uttar Pradesh, India.
 
-I am 21 years old Enthusiastic, Learning MERN Stack, Data Structure and Algorithm. 
+I am 21 years old Enthusiastic, Learning MERN Stack, Data Structure and Algorithm.
+
+<!-- -->
 <a href='https://www.linkedin.com/in/ershalendrasingh' target='_blank'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/linkedin.svg' width='24px' />
 </a>
-
 </a>
 <a href='https://github.com/shalendrasingh' target='_blank'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/github.svg' width='24px' />
