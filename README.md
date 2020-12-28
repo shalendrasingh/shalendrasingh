@@ -2,8 +2,7 @@
 
 I'm Shalendra Singh from Uttar Pradesh, India.
 
-I am 21 years old Enthusiastic, Learning MERN Stack, Data Structure and Algorithm. Aspiring to Full Stack Developer at Masai School. I am seeking to learn new technologies and think about efficient ways of doing work.
-
+I am 21 years old Enthusiastic, Learning MERN Stack, Data Structure and Algorithm. 
 <a href='https://www.linkedin.com/in/ershalendrasingh' target='_blank'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/linkedin.svg' width='24px' />
 </a>
@@ -20,6 +19,7 @@ I am 21 years old Enthusiastic, Learning MERN Stack, Data Structure and Algorith
 
 Currently, I'm learning MERN Stack Development at [Masai School](https://www.masaischool.com/).
 Aspiring to Full Stack Developer at Masai School. I am seeking to learn new technologies and think about efficient ways of doing work.
+I am seeking to learn new technologies and think about efficient ways of doing work.
 
 ### 🌱 What do I do?
 
