@@ -42,4 +42,3 @@ I am seeking to learn new technologies and think about efficient ways of doing w
 <!-- - 🚀 Databases/Backend - **** -->
 - 🚀 Others - **Git, VSCode, Slack, Zoom**
 
-<img alt="Shalendra singh github stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=shalendrasingh&show_icons=true&hide_border=true" />
