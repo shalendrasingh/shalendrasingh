@@ -46,3 +46,4 @@ Aspiring to Full Stack Developer at Masai School. I am seeking to learn new tech
 <!-- - 🚀 Databases/Backend - **** -->
 - 🚀 Others - **Git, VSCode, Slack, Zoom**
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shalendrasingh)
