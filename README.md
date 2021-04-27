@@ -38,9 +38,11 @@ Aspiring to Full Stack Developer at Masai School. I am seeking to learn new tech
 
 ### Skills
 
-- 🚀 Languages - **HTML, CSS and JavaScript**
+- 🚀 Languages - **JavaScript**
 <!--  -->
-- 🚀 FrameWork/Libraries - **React.js**
+- 🚀 Frontend - **HTML, CSS and JavaScript , Material-UI, Styled-Component , React.js , Redux**
+
+- 🚀 Backend - **Node.js, Express , MongoDB**
 <!-- - 🚀 Databases/Backend - **** -->
 - 🚀 Others - **Git, VSCode, Slack, Zoom**
 
