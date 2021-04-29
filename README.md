@@ -52,6 +52,6 @@ Aspiring to Full Stack Developer at Masai School. I am seeking to learn new tech
 
 #### Github Stats:
 
-
+[![Shalendra's github stats](https://github-readme-stats.vercel.app/api?username=shalendrasingh&&show_icons=true&count_private=true&include_all_commits=true")](https://github.com/shalendrasingh/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalendrasingh)](https://github.com/shalendrasingh/github-readme-stats)
