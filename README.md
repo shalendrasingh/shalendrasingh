@@ -55,5 +55,10 @@ Aspiring to Full Stack Developer at Masai School. I am seeking to learn new tech
 [![Shalendra's github stats](https://github-readme-stats.vercel.app/api?username=shalendrasingh&&show_icons=true&count_private=true&include_all_commits=true")](https://github.com/shalendrasingh/github-readme-stats)
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalendrasingh" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalendrasingh&" alt="shalendrasingh" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalendrasingh&" alt="shalendrasingh" />
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=shalendrasingh&&show_icons=true&count_private=true&include_all_commits=true" />
+</p>
 
