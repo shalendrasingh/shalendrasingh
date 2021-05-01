@@ -61,5 +61,5 @@ Aspiring to Full Stack Developer at Masai School. I am seeking to learn new tech
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalendrasingh&" alt="shalendrasingh" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalendrasingh&" alt="shalendrasingh" /></p>
 
