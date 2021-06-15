@@ -29,7 +29,7 @@ Aspiring to Full Stack Developer at Masai School. I am seeking to learn new tech
 
 - 📫 How to reach me: shalendrasingh.aec@gmail.com
 <!--  -->
-- 📫 My Portfolio: [https://shalendrasingh.github.io/portfolio/](https://shalendrasingh.github.io/portfolio/)
+- 📫 My Portfolio: [https://shalendrasingh.github.io/](https://shalendrasingh.github.io/portfolio/)
 
 
 <!-- https://shalendra-singh.netlify.app/ -->
